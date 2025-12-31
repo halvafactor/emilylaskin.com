@@ -6,9 +6,20 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 3;
 ---
+
+<h2>does words things</h2>
+
+<ul>
+<li><a href="/journalism">journalism</a></li>
+<li><a href="/academic">academic work</a></li>
+<li><s>shitposting</s> <a href="https://x.com/laskin">personal</a> 
+	<a href="https://bsky.app/profile/laskin.bsky.social">brand</a> 
+	<a href="https://www.reddit.com/user/halvafact/">management</a>
+</li>
+<li><a href="/blog">blog posts</a></li>
+</ul>
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
