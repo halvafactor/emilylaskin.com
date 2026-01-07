@@ -3,7 +3,7 @@ eleventyNavigation:
   key: "Academic Work"
   order: 4
 ---
-# Academic Work
+## Academic Work
 
 I used to be an academic. Here's what I wrote back then.
 
