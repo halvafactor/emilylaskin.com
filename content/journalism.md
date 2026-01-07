@@ -10,6 +10,8 @@ const eleventyNavigation = {
 
 * [Fossil Fuel Empire: The Environment of Post-2022 Russia and the Kremlin’s Threat to Domestic and Global Stability and Sustainability](https://www.greenpeace.org/international/publication/78927/russia-fossil-fuel-empire/) Greenpeace International
 
+* [No: The Exhibition](s/no-book-screen.pdf) Meduza
+
 ## Here's some original reporting I did for Meduza, Russia's premier newspaper-in-exile
 
 * [We Didn't Start the Fire](https://meduza.io/en/feature/2023/09/01/we-didn-t-start-the-fire) After Kazakhstan’s deadliest wildfires in years, locals blame corruption — but not climate change
