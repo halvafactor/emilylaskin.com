@@ -1,0 +1,45 @@
+---
+title: You should optimize love, actually
+date: "2026-02-17"
+---
+About a month ago, I clicked on [this article](/media/optimize-love-nytimes.pdf) called "Can You Optimize Love?" after someone I follow on Bluesky posted it and commented "Silicon Valley is a disorder." I'm not going to link to that post because I think the person who wrote it is smart and interesting and these musings aren't an attack on them. I clicked, because I almost always enjoy getting recreationally mad about Silicon Valley people having bad ideas. 
+
+You know the deal with this crowd, probably: start-up people with some [unconventional approaches to dating](https://x.com/CodyZervas/status/1491310944848596992) and all the usual Silicon Valley edgelord quackery. They're making a dating app called Keeper. If I were to explain their pursuit, as I understand it, in the least sensational way possible, I'd say that they're just doing some intense user research about their app. If it works real good, they say, it will match people so accurately that they'll fall in love at first sight, which is part of what the Times and the Bluesky crew seem to find ludicrous.  Also, the app's social media manager, according to the article, posted "I love eugenics" from his personal account on the website formerly known as Twitter. I'm getting to that.
+
+So anyway, I clicked in hopes of ingesting some high-brow rage bait, but what I got was an article about people with, admittedly questionable personal politics, but ideas about love and relationships that strike me as reasonable, even unremarkable, and a whole bunch of squicked observers on Bluesky. 
+
+## What about the magic?? 
+
+My gut instinct about why people get the ick when they consider optimizing love: they think it takes the magic out of it. This, I think, is wrong and sort of shallow. It's not really revolutionary to note that emotion and reason often work in concert instead of at cross purposes, but it's also not hard to find examples of people getting incensed at that very suggestion, as if viewing matters of the heart through the boring, clinical sense of the brain makes them feel less good, or less real. Full disclosure in case anyone who has known me for a very long time reads this: When I was in college I was team "magical matters of the heart" and I spent hours telling my neuroscience major roommate that investigating how brain chemicals produce emotion made life meaningless, whereas reading *War & Peace*, I guess, didn't. I don't know, I'm not reproducing that argument here, it was wrong. Maybe some other time I'll get around to writing a whole *nother* blog post and I'll do some free-form philosophizing about how more knowledge makes deep mysteries of life even more beguiling and inexplicable, but not today [puts bong down].
+
+Anyway, if you're in college you can sometimes just date people by being, you know, alive near them, but most people who are dating after their early 20s are optimizing in some capacity. You figure out ways to meet people who share your interests, or you have a specific physical type, or you get into this or that kink along the way, whatever. The leap from a better developed sense of yourself, your boundaries, and your preferences to an app that gets that information from you and then uses an algorithm to match you with other people? Not that huge. 
+
+Now, there *is* the whole issue of selling (the app, the concept of love, yourself). That is legitimately pretty non-magical. I guess my best answer to that is akin to "no ethical consumption under capitalism." There's a somewhat harsh pragmatics here: If you wait for true love (or money, or the perfect blog writing conditions) to fall in your lap, you might wait until you die. Hope is not a strategy &co. 
+
+Another icky thing: pickup artists. Their ethos is the ultimate example of person-as-product and getting-laid-as-optimization-problem. Anecdata, but I can say as a woman who dates men, especially of the terminally online variety (someone once told me my type is "edgelord but, like, nice" and...no lies detected), the specter of PUA can haunt even the most earnest and innocuous interactions. It is sometimes hard to tell whether a dude is a little awkward because he doesn't want to screw it up, or whether he's making a clumsy attempt at intentional manipulation. I think I'm less skeptical of men in general than most women my age and, uh, the results in my romantic history are mixed. But anyway, I can imagine that to someone who *is* fairly wary, who has had negative personal interactions with PUA types, who isn't comfortable generally with People of the Internet, or who is harmed by a high degree of social friction/awkwardness, an app that promises love at first sight would seem like signing up to have your personality and physique negged and then digested as data. But hey, on the other hand, maybe that's what some people are looking for in a dating app/experience, ykiok.
+
+## We need to talk about eugenics
+
+When I talked to my partner, who optimized dating with a "possibly psychopathic level of rigor" (his words) and found me, he pointed out that most people who are searching for love have some kind of system, it's just usually a crappy system. I'm sure there's some statistics take on this — it's not *that* hard to luck into an okay-to-great romantic relationship, and so a lot of people do actually set out with a crappy system but succeed anyway, thus setting the precedent that you don't really need any level or planning or rigor in dating and leaving the people who don't succeed *and* rely on a crappy system weighting the pool too heavily in favor of "love is a very hard problem to solve."  
+
+But okay, no one wants to just date *anyone*, but what if the mere whiff of a systematic approach to love (and sex) is politically problematic? How many people on Bluesky were skeeved about optimizing love because loving and dating are on some fundamental level, even if you're not trying to make more people, related to reproduction, and optimizing reproduction is, you know, sometimes referred to as eugenics. Which some Silicon Valley people definitely are unironically into, including, apparently, Keeper's social media guy. So are you doing eugenics if you have specific preferences about who you date and reproduce with? In some pedantic way, yes. Even worse, sexual attraction doesn't exist in a vacuum, obviously, but is informed by shifting, socially-defined beauty standards, which we all participate in upholding when we select a mate whose genes we decide to pass down. 
+
+So we're all doing eugenics, like it or not? What is to be done?
+
+1. Live with it.
+2. Take a nuanced view.
+3. Secret third thing.
+
+Option 1 is obviously bad, and it gives cover to people with actively bad, cruel ideas hiding behind a veil of either "cold hard rationality" or indifference. We're not all just accidentally doing eugenics.
+
+Option 2: like I said above, we're not all just accidentally doing eugenics by having dating preferences. There's obviously a difference between an individual selecting for traits they find desirable, even if those traits are socially mediated; and state-sponsored selection against certain politically defined classes of people. I don't think we need to discuss this further — the standard use of the term "eugenics" is the latter case, and it is very bad, and the people who support it and elide its difference with the former sense of the term in order to sanitize their own horrible politics are also very bad. But *also*, don't get sucked into this false equivalence in the other direction and throw up your hands at the possibility that you could strategically make your life by being a little smarter in dating. That way lies Option 3.
+
+## Secret third thing: Dysgenics
+
+Hear me out: we should divorce reproduction from sex and romance entirely and fully randomize the human gene pool. You can opt out, but if you opt in, you donate your eggs or sperm at some predetermined time of peak fertility, and then when you're ready to reproduce, you put in your name for a random combination of egg and sperm that you raise as your own offspring in whatever family configuration works best for you. Hashtag-praxis. I may or may not be joking.
+
+## PS
+
+Of course this article also had the "scary AI" tie-in, which I am broadly sympathetic to, but I have to say that this idea is hilarious and I think I would find it delightful if it actually worked.
+
+> Other strategies for human flourishing were proposed and debated. Mr. Fisher, the researcher and engineer, spoke of highly personalized A.I. agents that could potentially work to match compatible people when they walked into a bar by “amplifying her laugh” from across the room or “slightly brightening the light above him when she looked his way.”
