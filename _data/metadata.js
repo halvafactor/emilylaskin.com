@@ -5,7 +5,7 @@ export default {
 	description: "wordcel at large",
 	author: {
 		name: "Emily Laskin",
-		email: "emily.laskin@gmail.com",
+		email: "me@emilylaskin.com",
 		url: "https://emilylaskin.com"
 	}
 }

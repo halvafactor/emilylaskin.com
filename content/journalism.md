@@ -30,6 +30,8 @@ const eleventyNavigation = {
 
 ## And here are some Russian>English translations I'm proud of
 
+* [Mr. Nobody's Unrequited Love] (https://en.thenewtab.io/mr-nobodys-unrequited-love/) The New Tab talks to Karabash locals about their hometown's newfound infamy
+
 * [Generation P](https://meduza.io/en/feature/2025/01/03/generation-p) What we know about the Russians who came of age under Vladimir Putin
 
 * [Panicking for Putin](https://meduza.io/en/feature/2024/04/26/panicking-for-putin) Terrorism has returned to Russia, and the Putin administration may not be too upset about it
