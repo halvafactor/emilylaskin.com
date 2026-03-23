@@ -12,23 +12,9 @@ const eleventyNavigation = {
 
 * [No: The Exhibition](s/no-book-screen.pdf) Meduza
 
-## Here's some original reporting I did for Meduza, Russia's premier newspaper-in-exile
+## Here is my Russian>English translation for media portfolio
 
-* [We Didn't Start the Fire](https://meduza.io/en/feature/2023/09/01/we-didn-t-start-the-fire) After Kazakhstan’s deadliest wildfires in years, locals blame corruption — but not climate change
-
-* [‘Everybody turned their backs on us’](https://meduza.io/en/feature/2022/12/10/everybody-turned-their-backs-on-us) An ongoing crisis at TV Rain sparked intense debate about Russian independent media, its allegiances, and its responsibilities
-
-## Here's some news coverage by me that's gotten a lot of clicks
-
-* [Was Azerbaijan Airlines Embraer jet shot down?](https://meduza.io/en/cards/was-azerbaijan-airlines-embraer-jet-shot-down) Marks on the plane’s exterior suggest it was hit by military air defenses. Meduza considers the evidence.
-
-* [Life after ‘undesirability’](https://meduza.io/en/cards/life-after-undesirability) Now that Meduza has been outlawed, these are the risks involved in reading and sharing our work from inside Russia
-
-* [What we know about the bridge](https://meduza.io/en/feature/2022/10/10/what-we-know-about-the-bridge) The facts, and the theories, about the explosion on the Crimean Bridge
-
-* [Photos of the Russians who managed to flee conscription](https://meduza.io/en/feature/2022/10/05/a-look-at-the-russians-who-managed-to-flee-conscription) Chaos on the Russia-Georgia border
-
-## And here are some Russian>English translations I'm proud of
+* [Here Everybody Travels with His Own Graveyard](https://en.thenewtab.io/here-everyone-travels-with-his-own-graveyard/) Reporting from the dining car that brings Russian soldiers to war and back
 
 * [Mr. Nobody's Unrequited Love](https://en.thenewtab.io/mr-nobodys-unrequited-love/) The New Tab talks to Karabash locals about their hometown's newfound infamy
 
@@ -65,6 +51,23 @@ const eleventyNavigation = {
 * [From ‘protecting children’ to ‘discrediting the army’](https://meduza.io/en/feature/2022/11/06/from-protecting-children-to-discrediting-the-army) A brief history of 10 years of Russian Internet censorship
 
 * [‘They’re mostly after loans’](https://meduza.io/en/feature/2022/09/15/they-re-mostly-after-loans) Tuvans, trying to scramble out of poverty, are dying in a foreign war
+
+## Here's some original reporting I did for Meduza, Russia's premier newspaper-in-exile
+
+* [We Didn't Start the Fire](https://meduza.io/en/feature/2023/09/01/we-didn-t-start-the-fire) After Kazakhstan’s deadliest wildfires in years, locals blame corruption — but not climate change
+
+* [‘Everybody turned their backs on us’](https://meduza.io/en/feature/2022/12/10/everybody-turned-their-backs-on-us) An ongoing crisis at TV Rain sparked intense debate about Russian independent media, its allegiances, and its responsibilities
+
+## And here's some news coverage by me that's gotten a lot of clicks
+
+* [Was Azerbaijan Airlines Embraer jet shot down?](https://meduza.io/en/cards/was-azerbaijan-airlines-embraer-jet-shot-down) Marks on the plane’s exterior suggest it was hit by military air defenses. Meduza considers the evidence.
+
+* [Life after ‘undesirability’](https://meduza.io/en/cards/life-after-undesirability) Now that Meduza has been outlawed, these are the risks involved in reading and sharing our work from inside Russia
+
+* [What we know about the bridge](https://meduza.io/en/feature/2022/10/10/what-we-know-about-the-bridge) The facts, and the theories, about the explosion on the Crimean Bridge
+
+* [Photos of the Russians who managed to flee conscription](https://meduza.io/en/feature/2022/10/05/a-look-at-the-russians-who-managed-to-flee-conscription) Chaos on the Russia-Georgia border
+
 
 ## Other writing and translation
 
