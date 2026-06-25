@@ -14,6 +14,8 @@ const eleventyNavigation = {
 
 ## Here is my Russian>English translation for media portfolio
 
+* [The Skvortsov Affair](https://en.thenewtab.io/grigory-skvortsov-treason-case-soviet-bunkers/) How Russian authorities jailed an artist, musician, and local history enthusiast for sharing a book in the public domain
+
 * [Here Everybody Travels with His Own Graveyard](https://en.thenewtab.io/here-everyone-travels-with-his-own-graveyard/) Reporting from the dining car that brings Russian soldiers to war and back
 
 * [Mr. Nobody's Unrequited Love](https://en.thenewtab.io/mr-nobodys-unrequited-love/) The New Tab talks to Karabash locals about their hometown's newfound infamy
