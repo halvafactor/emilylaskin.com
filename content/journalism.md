@@ -14,6 +14,8 @@ const eleventyNavigation = {
 
 ## Here is my Russian>English translation for media portfolio
 
+* [Online in Russia](https://www.thedial.world/articles/news/the-new-tab-reporting-russia) Two reports from a magazine in exile
+
 * [The Skvortsov Affair](https://en.thenewtab.io/grigory-skvortsov-treason-case-soviet-bunkers/) How Russian authorities jailed an artist, musician, and local history enthusiast for sharing a book in the public domain
 
 * [Here Everybody Travels with His Own Graveyard](https://en.thenewtab.io/here-everyone-travels-with-his-own-graveyard/) Reporting from the dining car that brings Russian soldiers to war and back
