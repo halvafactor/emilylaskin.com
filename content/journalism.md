@@ -4,11 +4,11 @@ const eleventyNavigation = {
 	order: 3
 };
 ---
-## Editing (developmental to copy) portfolio
+## Here is a selection of material I've worked on as an editor
 
-* [The holiday's over: Russians describe chaos on Crimean beaches as Ukraine attacks](https://observer.co.uk/news/international/article/the-holidays-over-russians-describe-chaos-on-crimean-beaches-as-ukraine-attacks) by Isabel Coles for The Observer. *I provided translation assistance for interviews.*
+* [The holiday's over: Russians describe chaos on Crimean beaches as Ukraine attacks](https://observer.co.uk/news/international/article/the-holidays-over-russians-describe-chaos-on-crimean-beaches-as-ukraine-attacks) by Isabel Coles for The Observer. *Translation assistance for interviews.*
 
-* [Пропаганда в школах РФ (Propaganda in Russian Federation schools)](https://www.dw.com/ru/propaganda-v-rossijskih-skolah-rasskaz-ucenikov-o-trese-ot-ucitelej/a-78102904) by Marina Remayevich for Deutsche Welle. *I assisted with sourcing, fact-checking, and identity verification.*
+* [Пропаганда в школах РФ (Propaganda in Russian Federation schools)](https://www.dw.com/ru/propaganda-v-rossijskih-skolah-rasskaz-ucenikov-o-trese-ot-ucitelej/a-78102904) by Marina Remayevich for Deutsche Welle. *Sourcing, fact-checking, and identity verification.*
 
 * [The Populist: The Untold Story of Pavel Durov and Telegram](https://nikolaykononov.gumroad.com/l/vzgogg) by Nikolay Kononov. *Edits for structure and style; translation assistance.*
 
@@ -20,7 +20,7 @@ const eleventyNavigation = {
 
 * [Drone Mood](https://en.thenewtab.io/drone-attacks-russia-public-mood/) How Russians react to a war that makes itself known via unmanned aircraft
 
-* [Fluff Suckers, Allergies, and Sex Changes](https://en.thenewtab.io/russia-poplar-fluff-myths/) Debunking popular mythos about Russia's summer 2026 explosion of poplar fluff
+* [Fluff Suckers, Allergies, and Sex Changes](https://en.thenewtab.io/russia-poplar-fluff-myths/) Debunking popular myths about Russia's summer 2026 explosion of poplar fluff
 
 * [Online in Russia](https://www.thedial.world/articles/news/the-new-tab-reporting-russia) Two reports from a magazine in exile
 
