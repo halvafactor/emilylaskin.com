@@ -4,15 +4,23 @@ const eleventyNavigation = {
 	order: 3
 };
 ---
-## Editing (developmental to copy) and translation samples
+## Editing (developmental to copy) portfolio
 
-* [The Populist: The Untold Story of Pavel Durov and Telegram](https://nikolaykononov.gumroad.com/l/vzgogg) by Nikolay Kononov
+* [The holiday's over: Russians describe chaos on Crimean beaches as Ukraine attacks](https://observer.co.uk/news/international/article/the-holidays-over-russians-describe-chaos-on-crimean-beaches-as-ukraine-attacks) by Isabel Coles for The Observer. *I provided translation assistance for interviews.*
 
-* [Fossil Fuel Empire: The Environment of Post-2022 Russia and the Kremlin’s Threat to Domestic and Global Stability and Sustainability](https://www.greenpeace.org/international/publication/78927/russia-fossil-fuel-empire/) Greenpeace International
+* [Пропаганда в школах РФ (Propaganda in Russian Federation schools)](https://www.dw.com/ru/propaganda-v-rossijskih-skolah-rasskaz-ucenikov-o-trese-ot-ucitelej/a-78102904) by Marina Remayevich for Deutsche Welle. *I assisted with sourcing, fact-checking, and identity verification.*
 
-* [No: The Exhibition](s/no-book-screen.pdf) Meduza
+* [The Populist: The Untold Story of Pavel Durov and Telegram](https://nikolaykononov.gumroad.com/l/vzgogg) by Nikolay Kononov. *Edits for structure and style; translation assistance.*
+
+* [Fossil Fuel Empire: The Environment of Post-2022 Russia and the Kremlin’s Threat to Domestic and Global Stability and Sustainability](https://www.greenpeace.org/international/publication/78927/russia-fossil-fuel-empire/) Greenpeace International. *A mix of structural edits and translation, plus a final pass for stylistic consistency.*
+
+* [No: The Exhibition](s/no-book-screen.pdf) Meduza. *Translations and edits for tone and style.*
 
 ## Here is my Russian>English translation for media portfolio
+
+* [Drone Mood](https://en.thenewtab.io/drone-attacks-russia-public-mood/) How Russians react to a war that makes itself known via unmanned aircraft
+
+* [Fluff Suckers, Allergies, and Sex Changes](https://en.thenewtab.io/russia-poplar-fluff-myths/) Debunking popular mythos about Russia's summer 2026 explosion of poplar fluff
 
 * [Online in Russia](https://www.thedial.world/articles/news/the-new-tab-reporting-russia) Two reports from a magazine in exile
 
