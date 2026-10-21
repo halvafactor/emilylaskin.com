@@ -18,6 +18,10 @@ const eleventyNavigation = {
 
 ## Here is my Russian>English translation for media portfolio
 
+* [Back to Childhood](https://en.thenewtab.io/soviet-pioneer-camp-mayak-reunion/) Why adults are now gathering in the ruins of an abandoned Soviet Young Pioneers camp in the Leningrad region
+
+* [The Call](https://en.thenewtab.io/telephone-scams-russia-elderly-victims/) How Russian retirees die because of telephone scammers and why nobody is held responsible
+
 * [Drone Mood](https://en.thenewtab.io/drone-attacks-russia-public-mood/) How Russians react to a war that makes itself known via unmanned aircraft
 
 * [Fluff Suckers, Allergies, and Sex Changes](https://en.thenewtab.io/russia-poplar-fluff-myths/) Debunking popular myths about Russia's summer 2026 explosion of poplar fluff
